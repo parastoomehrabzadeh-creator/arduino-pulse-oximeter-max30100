@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino build outputs
+*.hex
+*.elf
+*.o
+*.d
+*.bin
+
+# VS Code / editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
